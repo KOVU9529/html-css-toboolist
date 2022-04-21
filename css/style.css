@@ -1,0 +1,88 @@
+h1{
+    display: inline-block;
+    vertical-align: middle;
+}
+.logo{
+    vertical-align: middle;
+}
+header{
+    background-color: white;
+    height: 50px;
+}
+main{
+    
+    background-color: lightgray;
+}
+.container{
+    margin-top: 50px;
+    width: 600px;
+    margin: auto;
+    background-color: white;
+}
+.push{
+    color: white;
+    margin-left: 40px;
+}
+.btn{
+    width: 60px;
+}
+hr{
+    border: solid;
+    border-color: gray;
+    height: 2px;
+
+}
+h2{
+    margin-left: 40px;
+}
+ul{
+    list-style: none;
+}
+li{
+    margin-top: 20px;
+}
+.green{
+    background-color: white;
+    border: 1px solid green;
+    border-radius: 50%;
+    color: green;
+    width: 6px;
+    height: 6px;
+
+}
+.blue{
+    background-color: rgb(92, 148, 245);
+    color: white;
+    border-radius: 25px;
+    padding: 5px;
+    font-size:small;
+}
+.violet{
+    background-color: rgb(92, 18, 138);
+    color: white;
+    border-radius: 25px;
+    padding: 5px;
+    font-size: small;
+}
+.red{
+    background-color: white;
+    border: 1px solid red;
+    border-radius: 50%;
+    color:red;
+    width: 4px;
+    height: 4px;
+}
+.greenhold{
+    background-color: rgb(18, 138, 94);
+    color: white;
+    border-radius: 25px;
+    padding: 5px;
+    font-size: small;
+}
+.orange{
+    background-color: rgb(253, 119, 10);
+    color: white;
+    border-radius: 25px;
+    padding: 5px;
+
+}
