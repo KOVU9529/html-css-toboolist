@@ -9,7 +9,14 @@ body{
 }
 h1{
     display: inline-block;
+}
+.strong{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:xx-large;
     vertical-align: middle;
+}
+.rong{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .logo{
     vertical-align: middle;
@@ -78,20 +85,6 @@ li{
    padding-right: 4px;
 
 }
-.blue{
-    background-color: rgb(92, 148, 245);
-    color: white;
-    border-radius: 25px;
-    padding: 5px;
-    font-size:small;
-}
-.violet{
-    background-color: rgb(92, 18, 138);
-    color: white;
-    border-radius: 25px;
-    padding: 5px;
-    font-size: small;
-}
 .red{
     background-color: white;
     border: 1px solid red;
@@ -106,6 +99,20 @@ li{
     padding-bottom: 1px;
     padding-right: 5px;
 }
+.blue{
+    background-color: rgb(92, 148, 245);
+    color: white;
+    border-radius: 25px;
+    padding: 5px;
+    font-size:small;
+}
+.violet{
+    background-color: rgb(92, 18, 138);
+    color: white;
+    border-radius: 25px;
+    padding: 5px;
+    font-size: small;
+}
 .greenhold{
     background-color: rgb(18, 138, 94);
     color: white;
@@ -118,6 +125,7 @@ li{
     color: white;
     border-radius: 25px;
     padding: 5px;
+    font-size: small;
 
 }
 .purple{
